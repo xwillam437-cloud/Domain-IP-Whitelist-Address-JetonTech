@@ -1,11 +1,69 @@
-Domain Whitelist-20260614.txt includes:
+# Domain Whitelist-20260614.txt includes:
 **AI Tools**
-Anthropic (Claude)
+Anthropic (Claude),ChatGPT (OpenAI),DeepSeek,Google Gemini (Google AI),Microsoft Copilot
+**Comprehensive Services**
+Google, Microsoft
+**Social Networks & Messaging**
+Discord, Facebook (Meta), Instagram, LinkedIn, Reddit, Signal, Snapchat, Telegram, WhatsApp, X.com (Twitter)
+**Gaming**
+Blizzard Battle.net, Epic Games, Planstation (PlayStation), Roblox, Steam, Xbox
+**Music Streaming**
+Deezer, SoundCloud, Spotify, Tidal
+**Video Streaming & Live Broadcasting**
+Netflix, Twitch, YouTube
+**E-commerce & Payments**
+eBay, PayPal, Stripe
+**Cloud Storage & Collaboration**
+Dropbox, Notion
+**Development & Code**
+Hosting	GitHub
+**Privacy & Encryption Tools**
+Protonmail, Tor Project
+**Blogging & Content Platforms**
+Blogger (Blogspot), Medium, Tumblr, WordPress
+**Image & Video Sharing**	
+Flickr, Pinterest, Vimeo, Dailymotion
+**Encyclopedia & Knowledge**
+Wikipedia
+**CDN & Infrastructure**
+Cloudflare
+**Cloud Providers**
+Cloud Providers (AWS, Azure, DigitalOcean, etc.)
+**Common Dependencies**
+AI Additional Common Dependencies (CDN, auth, cloud, etc.)
+**Security & VPN**	
+Zscaler, VPN Provider
+**Other (Portal)**
+Yahoo
 
-ChatGPT (OpenAI)
-
-DeepSeek
-
-Google Gemini (Google AI)
-
-Microsoft Copilot
+# IP Whitelist-20260614.txt includes:
+**AI Tools**	
+Anthropic (Claude), ChatGPT (OpenAI), DeepSeek, Google Gemini (Google AI), Microsoft Copilot
+**Comprehensive Services**	
+Google, Microsoft (Bing, MSN, Office, OneDrive, Skype)
+**Social Networks & Messaging**	
+Discord, Facebook (Meta), Instagram, LinkedIn, Reddit, Signal, Snapchat, Telegram, TikTok, WhatsApp, X.com (Twitter)
+**Gaming**	
+Blizzard Battle.net, Epic Games, PlayStation, Roblox, Steam, Xbox
+**Music Streaming**	
+Deezer, SoundCloud, Spotify, Tidal
+**Video Streaming & Live Broadcasting**	
+Netflix, Twitch, Vimeo, YouTube
+**E-commerce & Payments**	
+eBay, PayPal, Stripe
+**Cloud Storage & Collaboration**	
+Dropbox, Notion
+**Development & Code Hosting**	
+GitHub
+**Privacy & Encryption Tools**	
+Protonmail, Tor Project
+**Blogging & Content Platforms**	
+Medium, WordPress
+**Image Sharing**	
+Flickr, Pinterest
+**Encyclopedia & Knowledge**	
+Wikipedia
+**CDN & Infrastructure**	
+Cloudflare
+**Security & Censorship Circumvention**	
+Zscaler
