@@ -8,18 +8,17 @@
 
 1.1. Выполните вход в веб-интерфейс роутера и перейдите в «Расширенный режим». В вертикальном меню слева перейдите в раздел «SmartVPN» > «Домашний SmartVPN», затем нажмите кнопку «Начать» справа (**см. рис. 1**).
 
-<img width="834" height="435" alt="P1" src="https://github.com/user-attachments/assets/bcd03755-f3c4-4bc7-9524-e13c86d7f391" />
+<img width="1299" height="636" alt="P1" src="https://github.com/user-attachments/assets/7c83cf4a-43ec-4c41-8ed5-6cc8f91517f6" />
 
 1.2. В разделе «Тип VPN» выберите нужный протокол VPN (поддерживаются протоколы WireGuard, AmneziaWG, OpenVPN, IPsec и др.) (**рис. 2**). В данном руководстве будет рассмотрена настройка на примере протокола AmneziaWG. Перетащите полученный от VPN-провайдера файл с настройками AmneziaWG в указанную область (**рис. 3**). После нажатия кнопки «Далее» откроется раздел с настройками — не нужно вносить никаких изменений, просто нажмите «Далее» ещё раз (**рис. 4**).
 
-<img width="1182" height="806" alt="P2" src="https://github.com/user-attachments/assets/9bc1669b-2d56-4766-9469-1b6b49b338c3" />
-
-<img width="1170" height="824" alt="P3" src="https://github.com/user-attachments/assets/f59377ee-fea2-4805-8ecd-8e1c96a68f35" />
-
-<img width="1160" height="816" alt="P4" src="https://github.com/user-attachments/assets/c78f9438-ea9b-44d3-81e6-0982eada2306" />
+<img width="1299" height="772" alt="P2" src="https://github.com/user-attachments/assets/3fe7dab7-a9ee-4023-b4d8-aa93c1a07cb5" />
 
 
+<img width="1299" height="771" alt="P3" src="https://github.com/user-attachments/assets/75755944-5973-4b2c-a572-6eefe0b1fa5e" />
 
+
+<img width="1299" height="798" alt="P4" src="https://github.com/user-attachments/assets/2f846e92-c08b-4977-9210-ab24f1ae0096" />
 
 
 **2.Настройка белого списка VPN на роутерах Jeton Tech**
@@ -32,21 +31,25 @@
 
 3.1.Перетащите файл с предварительно составленным белым списком доменов в обозначенную область диалогового окна и нажмите «Далее» (**рис. 5**).
 
-<img width="1174" height="814" alt="P5" src="https://github.com/user-attachments/assets/d6b2cf1a-2ffc-430e-97cb-612fe8c12058" />
+<img width="1299" height="795" alt="P5" src="https://github.com/user-attachments/assets/d95d1864-400f-4feb-9855-bd4f2d6a44b7" />
 
 
 
-3.2.Если импорт прошёл успешно, на экране отобразятся все импортированные домены. Нажмите на любой из доменов в списке, чтобы изменить или удалить его (**рис. 6 и 7**). Также можно нажать на иконку  , чтобы выполнить групповое удаление (**рис. 8**). Иконка  позволяет выполнить поиск по доменам.
 
-<img width="1185" height="818" alt="P6" src="https://github.com/user-attachments/assets/efe5641c-8a52-476c-91fb-0d0c5c3b94fc" />
+3.2.Если импорт прошёл успешно, на экране отобразятся все импортированные домены. Нажмите на любой из доменов в списке, чтобы изменить или удалить его (**рис. 6 и 7**). Также можно нажать на иконку редактирования, чтобы выполнить групповое удаление (**рис. 8**). Иконка поиска позволяет выполнить поиск по доменам.
 
-<img width="1167" height="724" alt="P7" src="https://github.com/user-attachments/assets/2f7fc979-4373-4c56-ad05-83f586330845" />
+<img width="1299" height="795" alt="P6" src="https://github.com/user-attachments/assets/ec07001b-956d-435a-b700-02ec982edc71" />
 
-<img width="1152" height="818" alt="P8" src="https://github.com/user-attachments/assets/bd182a4a-255e-4b78-a072-43d3052d4f8a" />
+<img width="1299" height="799" alt="P7" src="https://github.com/user-attachments/assets/d790c625-600c-4ef2-a2da-128ffb668062" />
+
+<img width="1299" height="793" alt="P8" src="https://github.com/user-attachments/assets/516fc361-1289-485e-a3e5-efa90048f29e" />
+
+
 
 3.3.Если с белым списком всё в порядке, активируйте его, переведя переключатель «Включить» во включённое положение. Также белый список можно активировать в разделе «SmartVPN» > «Белый список VPN» (**рис. 9**).
 
-<img width="865" height="489" alt="P9" src="https://github.com/user-attachments/assets/6fa4b03f-cefb-4296-8b62-1f8d9126e0c8" />
+<img width="1299" height="689" alt="P9" src="https://github.com/user-attachments/assets/ff99f13b-1eba-4eac-b58a-c6acb81556cc" />
+
 
 
 
@@ -62,17 +65,22 @@
 
 4.1.Перетащите файл с предварительно составленным белым списком IP-адресов в обозначенную область диалогового окна и нажмите «Далее» (**рис. 10**).
 
-<img width="1160" height="812" alt="P10" src="https://github.com/user-attachments/assets/28229a7f-7e29-48de-bd44-76483ae5e0d2" />
+<img width="1299" height="797" alt="P10" src="https://github.com/user-attachments/assets/ef6aada3-adf0-4931-bf43-c221cfd1ed25" />
+
 
 
 4.2.Если импорт прошёл успешно, на экране отобразятся все импортированные IP-адреса.
 
-<img width="1155" height="823" alt="P11" src="https://github.com/user-attachments/assets/06ab6d88-91d5-43dc-a26c-96d33a90108e" />
+<img width="1299" height="794" alt="P11" src="https://github.com/user-attachments/assets/e0983a47-c6fe-4d55-9fe3-86c8ab652a83" />
+
 
 
 4.3.Примечания.
 
 (1) Белый список IP-адресов и белый список доменов работают одновременно. Для доступа ко всем указанным в белом списке IP-адресам и доменам будет использоваться VPN-подключение. Поддерживаемые форматы IP-адресов: «192.168.3.2», «192.168.3.3-192.168.3.6», «192.168.3.0/24».
+
+<img width="1299" height="691" alt="P11-1" src="https://github.com/user-attachments/assets/69ce67f6-7bc6-4cd0-a88e-0e1d0e14e3bd" />
+
 
 (2) Файлы с белыми списками должны быть в формате TXT.
 
@@ -83,12 +91,14 @@
 
 5.1. Посмотреть состояние, а также включить (отключить) или удалить созданные VPN-подключения можно в разделе «SmartVPN» > «Состояние SmartVPN» > «Состояние Amnezia WireGuard» (если используется другой протокол, выберите соответствующую вкладку). Примечание. VPN-подключение нельзя удалить, если оно включено (**рис. 12**).
 
-<img width="1828" height="814" alt="P12" src="https://github.com/user-attachments/assets/d1a87cf6-b265-4316-9783-11fff9e98a57" />
+<img width="1299" height="582" alt="P12" src="https://github.com/user-attachments/assets/744309dc-746f-4f20-b9cf-5318cacb1c11" />
+
+
 
 
 5.2. Посмотреть расход трафика и другую информацию о включённых VPN-подключениях можно в разделе «Состояние» > «Состояние VPN» > «Состояние Amnezia WireGuard». Если используется другой протокол, выберите соответствующую вкладку (**рис. 13**).
 
-<img width="1692" height="798" alt="P13" src="https://github.com/user-attachments/assets/2dd0c23d-681f-48da-af7f-0be95f92ac8b" />
+<img width="1299" height="696" alt="P13" src="https://github.com/user-attachments/assets/0cebcf77-8861-4575-85a5-76d36d2eb647" />
 
 
 5.3. Включить (отключить) созданный белый список можно в разделе «SmartVPN» > «Белый список VPN». Все вышеупомянутые функции управления белыми списками доменов и IP-адресов также доступны в этом разделе.
